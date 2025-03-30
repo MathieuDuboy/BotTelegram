@@ -1,0 +1,24 @@
+{
+    "restartOtherLanguage": "🔄 You are restarting the process. Let's begin again!",
+    "thankYouLanguage": "Thank you for choosing your language!",
+    "accountCreatedMessage": "Your account has been created.\n<b>Account ID <b/>: {userId}\n<b>Creation date</b>: {creationDate}",
+    "askLastName": "What's your last name?",
+    "askEmail": "What's your email?",
+    "invalidName": "❌ Invalid first name. Use letters only.",
+    "invalidLastName": "❌ Invalid last name. Use letters only.",
+    "invalidEmail": "❌ Invalid email. Please use a valid format (example@mail.com).",
+    "askPhone": "What's your phone number? Please enter it in the international format (e.g., +33612345678).",
+    "invalidPhone": "❌ Invalid phone number. It must be in the international format (e.g., +33612345678).",  
+    "thankYou": "✅ Thank you for your info:",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "goodbye": "<b>We will inform you as soon as your account is active.</b>",
+    "askReferralCode": "Please enter your referral code.",
+    "askFirstName": "What's your first name?",
+    "invalidReferralCode": "❌ This referral code is invalid. Please try again:",
+    "thankYouReferralCode": "✅ Thank you! Referral code saved.",
+    "referralCode" : "Referral Code"
+  }
+  
