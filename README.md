@@ -48,6 +48,15 @@ TELEGRAM_CHANNEL_ID=-100xxxxxxxxx
 1. Va sur [@BotFather](https://t.me/BotFather) sur Telegram.
 2. Tape `/newbot` et suis les instructions.
 3. Note bien le **token** du bot et mets-le dans le `.env`.
+4. Configurer le /setdescription
+```
+🌟 Welcome to NovaCryptoCard_bot!
+💳 Spend your crypto assets with an anonymous Virtual Credit Card, compatible with Apple Pay/Google Pay.
+
+✨ Добро пожаловать в NovaCryptoCard_bot!
+💳 Тратьте свои криптовалютные активы с анонимной виртуальной картой, совместимой с Apple Pay/Google Pay.
+```
+5. Configurer les Boutons Menu
 
 ---
 
